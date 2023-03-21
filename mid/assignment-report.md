@@ -1,7 +1,7 @@
-# Activison Function 
+# Activation Function 
 Activation functions are an essential component of neural networks and play a crucial role in determining the output of each neuron in the network. In computer vision, activation functions are used to convert the weighted sum of input values into a non-linear output, which can be interpreted as the activation level of the neuron.
 
-## Types of Activison Function
+## Types of Activation Function
 There are several activation functions used in computer vision, including the sigmoid function, ReLU (Rectified Linear Unit), Leaky ReLU, and Softmax. Each of these functions has unique properties that make them suitable for different types of computer vision applications.
 
 ### ReLU
